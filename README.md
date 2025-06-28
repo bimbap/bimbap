@@ -31,7 +31,7 @@ printf "Why are the truths sometimes so hurtful?"
   <img width="12" />
   <a href="#"><img src="https://skillicons.dev/icons?i=git" height="30" style="pointer-events: auto;" draggable="false" /></a>
 </div>
-
+<!--
 <br clear="both">
 
 <div align="center">
@@ -40,14 +40,14 @@ printf "Why are the truths sometimes so hurtful?"
   <a href="https://discord.com/users/647804879691186178" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" height="30" />
   </a>
-</div>
+</div> -->
 
 ###
-
+<!--
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/bimbap/bimbap/output/snake.svg" alt="Snake animation" />
-
+-->
 ###
 
 <h6 align="center">© 2025</h6>
