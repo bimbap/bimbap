@@ -11,7 +11,7 @@ printf "Why are the truths sometimes so hurtful?"
 </div>
 
 ###
-
+<!--
 <div align="center">
   <a href="#"><img src="https://skillicons.dev/icons?i=js" height="30" style="pointer-events: auto;" draggable="false" /></a>
   <img width="12" />
@@ -31,7 +31,7 @@ printf "Why are the truths sometimes so hurtful?"
   <img width="12" />
   <a href="#"><img src="https://skillicons.dev/icons?i=git" height="30" style="pointer-events: auto;" draggable="false" /></a>
 </div>
-<!--
+
 <br clear="both">
 
 <div align="center">
