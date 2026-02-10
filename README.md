@@ -50,7 +50,7 @@ printf "Why are the truths sometimes so hurtful?"
 -->
 ###
 
-<h6 align="center">© 2025</h6>
+<h6 align="center">© 2026</h6>
 
 ###
 
