@@ -1,9 +1,8 @@
 <br clear="both">
-<!--
+
 ```bash
 printf "Why are the truths sometimes so hurtful?"
 ```
--->
 
 <!-- ###
 
@@ -49,7 +48,7 @@ printf "Why are the truths sometimes so hurtful?"
 
 ###
 
-<!-- <div align="center" style="margin-top: 20px;">
+<div align="center" style="margin-top: 20px;">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bimbap/bimbap/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bimbap/bimbap/output/github-snake.svg" />
@@ -60,7 +59,7 @@ printf "Why are the truths sometimes so hurtful?"
       style="max-width: 900px; border-radius: 10px;"
     />
   </picture>
-</div> -->
+</div> 
 
 ###
 
